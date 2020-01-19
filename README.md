@@ -14,4 +14,4 @@
 - audio_valence: A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry).
 - tempo: The overall estimated tempo of a track in beats per minute (BPM). In musical terminology, tempo is the speed or pace of a given piece and derives directly from the average beat duration.
 - song_popularity: Song ratings of spotify audience.
-- liveness: Detects the presence of an audience in the recording. Higher liveness values represent an increased probability that the track was performed live.[2]
+- liveness: Detects the presence of an audience in the recording. Higher liveness values represent an increased probability that the track was performed live.
